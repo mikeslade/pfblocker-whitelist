@@ -1,0 +1,1 @@
+# pfblocker-whitelist
